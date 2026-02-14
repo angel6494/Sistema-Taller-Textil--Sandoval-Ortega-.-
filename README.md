@@ -25,6 +25,9 @@ El objetivo principal es brindarle control y claridad sobre su operación diaria
 
 
 
+
+
+
 Modelo de Base de Datos – TallerTextilDB
 
 La base de datos TallerTextilDB fue diseñada bajo principios de normalización hasta 5ª Forma Normal (5FN), garantizando integridad, escalabilidad y eliminación de redundancias.
